@@ -4,6 +4,17 @@ Public sales site for **RayTech Services, LLC** (Adam Raymer-Brown).
 
 **Own repository.** Source of truth on GitHub → deploy on **Vercel**.
 
+## Prompts for Manus / other AIs
+
+**Start here:** [`docs/PROMPTS/MANUS-HANDOFF.md`](docs/PROMPTS/MANUS-HANDOFF.md)
+
+| Path | Purpose |
+|------|---------|
+| `docs/PROMPTS/` | Canonical brief + flow (give this folder to Manus Desktop) |
+| `docs/PROMPTS/MANUS-HANDOFF.md` | Paste/attach-ready handoff |
+| `docs/PROMPTS/SITE-FLOW.md` | Locked page order + CTA |
+| `docs/PROMPTS/INDEX.md` | Map of all related folders on this PC |
+
 ## Locked product decisions
 
 | Item | Value |
