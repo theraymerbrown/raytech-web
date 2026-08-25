@@ -45,6 +45,7 @@ export default function HomePage() {
               alt="The RayTech Services team outdoors in matching shirts"
               fill
               priority
+              quality={88}
               sizes="100vw"
               style={{ objectFit: "cover", objectPosition: "center 28%" }}
             />
