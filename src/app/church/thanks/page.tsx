@@ -73,7 +73,7 @@ export default function ChurchThanksPage() {
           <strong>How to use it</strong>
           <ol style={{ margin: "0.6rem 0 0 1.1rem" }}>
             <li style={{ margin: "0.35rem 0" }}>
-              Open in Adobe Acrobat, Preview, or Edge — type in the blanks when the fillable edition is ready (or print and write).
+              Open in Adobe Acrobat, Preview, or Edge — type in the blanks \(AcroForm fillable\) or print and write.
             </li>
             <li style={{ margin: "0.35rem 0" }}>Same day each week helps. “I don’t know” is a good answer.</li>
             <li style={{ margin: "0.35rem 0" }}>Never write real passwords in the book — only where they live.</li>
