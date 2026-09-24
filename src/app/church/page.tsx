@@ -51,7 +51,7 @@ function ConsultSlab() {
         Hey — want a one-on-one call?
       </p>
       <p style={{ margin: "0 0 1.15rem", color: "rgba(28,25,21,0.72)", fontSize: "1rem" }}>
-        If you'd rather talk than finish the book alone, book a short consult with Adam.
+        If you&apos;d rather talk than finish the book alone, book a short consult with Adam.
       </p>
       <a
         href={BOOKING_URL}
@@ -121,7 +121,7 @@ export default function ChurchJournalPage() {
             lineHeight: 1.45,
           }}
         >
-          For church offices that are tired of tech living in one person's head
+          For church offices that are tired of tech living in one person&apos;s head
         </p>
 
         <h1
@@ -194,23 +194,23 @@ export default function ChurchJournalPage() {
             />
             <div>
               <p style={{ margin: "0 0 0.25rem", fontWeight: 700, fontFamily: "Fraunces, Georgia, serif", fontSize: "1.15rem" }}>
-                Hi — I'm Adam Raymer-Brown.
+                Hi — I&apos;m Adam Raymer-Brown.
               </p>
               <p style={{ margin: 0, fontSize: "0.92rem", color: "rgba(28,25,21,0.62)" }}>
                 Raytech Services
               </p>
             </div>
           </div>
-          <p style={{ marginBottom: "0.85rem" }}>I've spent 20 years in IT.</p>
+          <p style={{ marginBottom: "0.85rem" }}>I&apos;ve spent 20 years in IT.</p>
           <p style={{ marginBottom: "0.85rem" }}>A lot of that time has been with churches.</p>
           <p style={{ marginBottom: "0.85rem" }}>Every time I walk in, I ask the same things:</p>
-          <p style={{ marginBottom: "0.35rem" }}>Where's the internet box?</p>
+          <p style={{ marginBottom: "0.35rem" }}>Where&apos;s the internet box?</p>
           <p style={{ marginBottom: "0.35rem" }}>Who has the passwords?</p>
           <p style={{ marginBottom: "0.85rem" }}>Who pays for the website?</p>
-          <p style={{ marginBottom: "0.85rem" }}>Most of the time the answers live in one person's head.</p>
+          <p style={{ marginBottom: "0.85rem" }}>Most of the time the answers live in one person&apos;s head.</p>
           <p style={{ marginBottom: "0.85rem" }}>And that person is tired of carrying it all.</p>
           <p style={{ marginBottom: 0 }}>
-            This journal is for you — the part-time admin, the volunteer who "just knows," the pastor who
+            This journal is for you — the part-time admin, the volunteer who &quot;just knows,&quot; the pastor who
             wants clarity without another project.
           </p>
         </section>
@@ -222,14 +222,14 @@ export default function ChurchJournalPage() {
           <li style={{ margin: "0.55rem 0" }}>One written map of people, equipment, and accounts</li>
           <li style={{ margin: "0.55rem 0" }}>A clear note of where passwords are kept (never the passwords themselves)</li>
           <li style={{ margin: "0.55rem 0" }}>Internet, email, giving, and files named in plain language</li>
-          <li style={{ margin: "0.55rem 0" }}>A one-page summary someone else can grab when you're out</li>
-          <li style={{ margin: "0.55rem 0" }}>Honest blanks where you don't know yet — those are useful too</li>
+          <li style={{ margin: "0.55rem 0" }}>A one-page summary someone else can grab when you&apos;re out</li>
+          <li style={{ margin: "0.55rem 0" }}>Honest blanks where you don&apos;t know yet — those are useful too</li>
         </ul>
 
         <p style={{ marginBottom: "0.55rem" }}>You will not fix anything in this book.</p>
-        <p style={{ marginBottom: "0.55rem" }}>You're only writing down what's already there.</p>
+        <p style={{ marginBottom: "0.55rem" }}>You&apos;re only writing down what&apos;s already there.</p>
         <p style={{ marginBottom: "0.55rem" }}>If you can fill out a permission slip, you can do this.</p>
-        <p style={{ marginBottom: "1.5rem" }}>"I don't know" is a good answer.</p>
+        <p style={{ marginBottom: "1.5rem" }}>&quot;I don&apos;t know&quot; is a good answer.</p>
 
         <div
           style={{
@@ -241,17 +241,17 @@ export default function ChurchJournalPage() {
           }}
         >
           <p style={{ margin: 0, fontFamily: "Fraunces, Georgia, serif", fontSize: "1.12rem", lineHeight: 1.45 }}>
-            We don't sell you a binder of tech homework.
+            We don&apos;t sell you a binder of tech homework.
           </p>
           <p style={{ margin: "0.85rem 0 0", lineHeight: 1.5 }}>
-            We give you a calm path to get church tech out of your head and onto paper — so the church isn't one
+            We give you a calm path to get church tech out of your head and onto paper — so the church isn&apos;t one
             flu season away from chaos.
           </p>
         </div>
 
 
         <h2 style={{ fontFamily: "Fraunces, Georgia, serif", fontSize: "1.35rem", marginBottom: "0.85rem", fontWeight: 700 }}>
-          What's inside
+          What&apos;s inside
         </h2>
         <p style={{ marginBottom: "0.55rem" }}>Twelve short weeks.</p>
         <p style={{ marginBottom: "0.85rem" }}>
@@ -259,7 +259,7 @@ export default function ChurchJournalPage() {
           call. One-page summary.
         </p>
         <p style={{ marginBottom: "0.85rem" }}>
-          Plus a short "where are you stuck?" path when you're ready for a second set of eyes.
+          Plus a short &quot;where are you stuck?&quot; path when you&apos;re ready for a second set of eyes.
         </p>
         <p style={{ marginBottom: "2rem", color: "rgba(28,25,21,0.72)" }}>
           Pilot thank-you: early reviewers get a free printed copy when the final edition ships.
@@ -268,10 +268,10 @@ export default function ChurchJournalPage() {
         <h2 style={{ fontFamily: "Fraunces, Georgia, serif", fontSize: "1.35rem", marginBottom: "0.85rem", fontWeight: 700 }}>
           The digital pilot is $7.
         </h2>
-        <p style={{ marginBottom: "0.55rem" }}>I'm not going to spend much more time selling it.</p>
-        <p style={{ marginBottom: "0.55rem" }}>If it's useful, you'll know in the first two weeks of writing.</p>
+        <p style={{ marginBottom: "0.55rem" }}>I&apos;m not going to spend much more time selling it.</p>
+        <p style={{ marginBottom: "0.55rem" }}>If it&apos;s useful, you&apos;ll know in the first two weeks of writing.</p>
         <p style={{ marginBottom: "2rem" }}>
-          If you want help beyond the book, reach out — we'll tell you plainly whether Raytech is a fit.
+          If you want help beyond the book, reach out — we&apos;ll tell you plainly whether Raytech is a fit.
         </p>
 
         <div id="get-journal" style={{ scrollMarginTop: "1.5rem" }}>
@@ -337,7 +337,7 @@ export default function ChurchJournalPage() {
         </div>
 
         <p style={{ marginTop: "0.5rem", fontSize: "0.92rem", color: "rgba(28,25,21,0.62)", marginBottom: "2rem" }}>
-          Gift for a church office? Pay $7 and put their email in the note, or just tell Adam and he'll send it.
+          Gift for a church office? Pay $7 and put their email in the note, or just tell Adam and he&apos;ll send it.
         </p>
 
         <ConsultSlab />
